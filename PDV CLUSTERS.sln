@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDV CLUSTERS", "PDV CLUSTERS\PDV CLUSTERS.csproj", "{C3122EA7-B14E-4A86-A6BC-3EC4B90C3B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3122EA7-B14E-4A86-A6BC-3EC4B90C3B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3122EA7-B14E-4A86-A6BC-3EC4B90C3B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3122EA7-B14E-4A86-A6BC-3EC4B90C3B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3122EA7-B14E-4A86-A6BC-3EC4B90C3B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC8C9A2-3C1C-4AD1-9CAD-6C5F26362DF9}
+	EndGlobalSection
+EndGlobal

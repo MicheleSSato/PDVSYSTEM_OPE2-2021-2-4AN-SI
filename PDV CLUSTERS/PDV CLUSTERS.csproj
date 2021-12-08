@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C3122EA7-B14E-4A86-A6BC-3EC4B90C3B95}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PDV_CLUSTERS</RootNamespace>
+    <AssemblyName>PDV CLUSTERS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexao.cs" />
+    <Compile Include="cupomVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cupomVenda.Designer.cs">
+      <DependentUpon>cupomVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PDVClusterDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PDVClusterDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PDVClusterDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PDVClusterDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PDVClusterDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PDVClusterDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PDVClusterDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PDVClusterDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PDVClusterDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PDVClusterDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PDVClusterDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PDVClusterDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PDVClusterDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PDVClusterDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PDVClusterDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PDVClusterDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Sessao.cs" />
+    <Compile Include="telaCadastroFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastroFornecedor.Designer.cs">
+      <DependentUpon>telaCadastroFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCadastroFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastroFuncionario.Designer.cs">
+      <DependentUpon>telaCadastroFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastroProduto.Designer.cs">
+      <DependentUpon>telaCadastroProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioPDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioPDV.Designer.cs">
+      <DependentUpon>InicioPDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="telaCaixaFechamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCaixaFechamento.Designer.cs">
+      <DependentUpon>telaCaixaFechamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCaixaSangria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCaixaSangria.Designer.cs">
+      <DependentUpon>telaCaixaSangria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCaixaVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCaixaVenda.Designer.cs">
+      <DependentUpon>telaCaixaVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaLogin.Designer.cs">
+      <DependentUpon>telaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaManterCadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaManterCadastroProduto.Designer.cs">
+      <DependentUpon>TelaManterCadastroProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaManterFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaManterFornecedor.Designer.cs">
+      <DependentUpon>TelaManterFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaManterFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaManterFuncionario.Designer.cs">
+      <DependentUpon>telaManterFuncionario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cupomVenda.resx">
+      <DependentUpon>cupomVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioPDV.resx">
+      <DependentUpon>InicioPDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="telaCadastroFornecedor.resx">
+      <DependentUpon>telaCadastroFornecedor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCadastroFuncionario.resx">
+      <DependentUpon>telaCadastroFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCadastroProduto.resx">
+      <DependentUpon>telaCadastroProduto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCaixaFechamento.resx">
+      <DependentUpon>telaCaixaFechamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCaixaSangria.resx">
+      <DependentUpon>telaCaixaSangria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCaixaVenda.resx">
+      <DependentUpon>telaCaixaVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaLogin.resx">
+      <DependentUpon>telaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaManterCadastroProduto.resx">
+      <DependentUpon>TelaManterCadastroProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaManterFornecedor.resx">
+      <DependentUpon>TelaManterFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaManterFuncionario.resx">
+      <DependentUpon>telaManterFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="PDVClusterDataSet.xsc">
+      <DependentUpon>PDVClusterDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PDVClusterDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PDVClusterDataSet.xss">
+      <DependentUpon>PDVClusterDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet1.xsc">
+      <DependentUpon>PDVClusterDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PDVClusterDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PDVClusterDataSet1.xss">
+      <DependentUpon>PDVClusterDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet2.xsc">
+      <DependentUpon>PDVClusterDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PDVClusterDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PDVClusterDataSet2.xss">
+      <DependentUpon>PDVClusterDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet3.xsc">
+      <DependentUpon>PDVClusterDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PDVClusterDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PDVClusterDataSet3.xss">
+      <DependentUpon>PDVClusterDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet4.xsc">
+      <DependentUpon>PDVClusterDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PDVClusterDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PDVClusterDataSet4.xss">
+      <DependentUpon>PDVClusterDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet5.xsc">
+      <DependentUpon>PDVClusterDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PDVClusterDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PDVClusterDataSet5.xss">
+      <DependentUpon>PDVClusterDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet6.xsc">
+      <DependentUpon>PDVClusterDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PDVClusterDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PDVClusterDataSet6.xss">
+      <DependentUpon>PDVClusterDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet7.xsc">
+      <DependentUpon>PDVClusterDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="PDVClusterDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PDVClusterDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PDVClusterDataSet7.xss">
+      <DependentUpon>PDVClusterDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\online-payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\analysis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\analysis1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\value.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoCerto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoCerto1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lg1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo grande.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoCerto2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross-out %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testando.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vetorCaixa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vetorCaixa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\delete.png" />
+    <Content Include="Resources\editar.png" />
+    <Content Include="Resources\editarlapis.png" />
+    <Content Include="Resources\excluir.png" />
+    <None Include="Resources\grf linha venda.png" />
+    <None Include="Resources\grf pontos.png" />
+    <None Include="Resources\grf colunm.png" />
+    <None Include="Resources\grf circulo.png" />
+    <None Include="Resources\grf torre.png" />
+    <None Include="Resources\Grf Linhas.png" />
+    <None Include="Resources\grf Coluna.png" />
+    <None Include="Resources\grf Pizza.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

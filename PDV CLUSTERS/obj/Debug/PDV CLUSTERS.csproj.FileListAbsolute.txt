@@ -1,0 +1,85 @@
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.exe.config
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.exe
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.pdb
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.AssemblyReference.cache
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.Properties.Resources.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.GenerateResource.cache
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.exe
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.pdb
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.InicioPDV.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroFornecedor.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroFuncionario.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroProduto.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaFechamento.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaSangria.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaVenda.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaRelatorioFuncionario.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaRelatorioProdutos.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaRelatorioVendas.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV CLUSTERS\PDV CLUSTERS\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.TelaManterFornecedor.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.AssemblyReference.cache
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.InicioPDV.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.Properties.Resources.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroFornecedor.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroFuncionario.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroProduto.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaFechamento.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaSangria.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaVenda.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.TelaManterCadastro.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.TelaManterFornecedor.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaManterFuncionario.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaRelatorioFuncionario.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaRelatorioProdutos.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaRelatorioVendas.resources
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.GenerateResource.cache
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.CoreCompileInputs.cache
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.exe
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.pdb
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.exe.config
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.exe
+C:\Users\Iago B. dos Santos\source\repos\PDV%20Clusters\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.pdb
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.exe.config
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.exe
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.pdb
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.AssemblyReference.cache
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.cupomVenda.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.InicioPDV.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.Properties.Resources.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroFornecedor.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroFuncionario.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroProduto.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaFechamento.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaSangria.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaVenda.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.TelaManterCadastroProduto.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.TelaManterFornecedor.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaManterFuncionario.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaRelatorioFuncionario.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaRelatorioProdutos.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaRelatorioVendas.resources
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.GenerateResource.cache
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.exe
+C:\Users\Caio\Desktop\GitCluster\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.pdb
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.exe.config
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.exe
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\bin\Debug\PDV CLUSTERS.pdb
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.cupomVenda.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.InicioPDV.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.Properties.Resources.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroFornecedor.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroFuncionario.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCadastroProduto.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaFechamento.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaSangria.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaCaixaVenda.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaLogin.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.TelaManterCadastroProduto.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.TelaManterFornecedor.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV_CLUSTERS.telaManterFuncionario.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.GenerateResource.cache
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.exe
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\PDV%20Clusters\PDV CLUSTERS\obj\Debug\PDV CLUSTERS.pdb
